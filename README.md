@@ -23,3 +23,9 @@ microstack launch cirros -n virtua
 ```
 sudo snap get microstack config.credentials.keystone-password
 ```
+# acceso de configuracion de openstack 
+```
+https://localhost:443
+```
+_NOTA_: Recuerde abrir los puerto en el virtualbox de los comandos que vaya abriendo por cada maquina virtual 
+
